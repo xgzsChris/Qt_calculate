@@ -1,0 +1,3 @@
+jisuanqi7.qrc|"F:\qtprograme\jisuanqi7\jisuanqi7\jisuanqi7.qrc" -o ".\GeneratedFiles\qrc_jisuanqi7.cpp" --name jisuanqi7
+jisuanqi7.ui|"F:\qtprograme\jisuanqi7\jisuanqi7\jisuanqi7.ui" -o ".\GeneratedFiles\ui_jisuanqi7.h"
+jisuanqi7.h|"F:\qtprograme\jisuanqi7\jisuanqi7\jisuanqi7.h" -o ".\GeneratedFiles\Debug\moc_jisuanqi7.cpp" "-I.\GeneratedFiles" "-I." "-ID:\qt\Qt5.10.1\5.10.1\msvc2017_64\include" "-I.\GeneratedFiles\Debug" "-ID:\qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtCore" "-ID:\qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtGui" "-ID:\qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtANGLE" "-ID:\qt\Qt5.10.1\5.10.1\msvc2017_64\include\QtWidgets" -DUNICODE -D_UNICODE -DWIN32 -DWIN64 -DQT_DLL -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB
